@@ -1,0 +1,15 @@
+redo.rb
+test.rb
+checkPrime.rb
+matrix.rb
+until.rb
+.
+do_while.rb
+..
+multiplication_table.rb
+case_when.rb
+while_loop.rb
+next.rb
+if_else.rb
+maxOfThree.rb
+for_loops.rb
